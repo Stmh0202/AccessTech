@@ -1,0 +1,20 @@
+/* styles.css */
+.container {
+    background-image: '../assets/adminBackground/adminWallpaper.jpg';
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.overlay {
+
+    width: 100%;
+    max-width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
